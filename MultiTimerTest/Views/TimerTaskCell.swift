@@ -49,7 +49,7 @@ class TimerTaskCell: UITableViewCell {
         let label = UILabel()
         label.translatesAutoresizingMaskIntoConstraints = false
         label.text = "Resume"
-        label.textColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+        label.textColor = #colorLiteral(red: 0, green: 0.5690457821, blue: 0.5746168494, alpha: 1)
         label.font = UIFont(name: "Arial", size: 18)
         label.textAlignment = .center
         label.backgroundColor = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1)

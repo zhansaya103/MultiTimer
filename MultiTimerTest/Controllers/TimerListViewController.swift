@@ -25,7 +25,7 @@ class TimerListViewController: UIViewController {
     // Генератор случайных названий, для удобства тестирования
     var generateRandomName: UIButton!
     let randomNameFirstPart = ["Игра", "Раунд", "Отпуск", "Праздник", "Турнир", "Тест", "Урок", "Фильм"]
-    let randomNameSecondPart = ["начнется через", "будет через", "стартует через", "закончится через"]
+    let randomNameSecondPart = ["начнется через", "будет через", "закончится через"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
